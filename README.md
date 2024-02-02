@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sumitkadam451@gmail.com**
 
-- 📄 Know about my experiences [file:///G:/Sumit_CV.pdf](file:///G:/Sumit_CV.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ipm8HyvXNr-aVL-TTZ1ZWLdKkyXZvbfL/view?usp=sharing](https://drive.google.com/file/d/1Ipm8HyvXNr-aVL-TTZ1ZWLdKkyXZvbfL/view?usp=sharing)
 
 - ⚡ Fun fact **I like Anime & Novels**
 
