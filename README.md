@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kadam</h1>
 <h3 align="center">MR._D4RK_ is my pseudonym</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07340e39-3680-4b82-914d-8e1316dd3f34/deaf72d-a8b1de48-37d8-49df-b109-5609139d6180.gif?">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07340e39-3680-4b82-914d-8e1316dd3f34/deaf72d-a8b1de48-37d8-49df-b109-5609139d6180.gif?](https://art.pixilart.com/efd2e94936a85ea.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkadam451&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkadam451" /> </p>
 
