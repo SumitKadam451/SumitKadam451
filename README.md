@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://rb.gy/vymypx](https://rb.gy/vymypx)
 
-- ⚡ My likes are **Hacking & Anime and reading Novels**
+- ⚡ I enjoy **Hacking & Anime and diving into Novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
