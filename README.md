@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kadam</h1>
 <h3 align="center">MR._D4RK_ is my pseudonym</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07340e39-3680-4b82-914d-8e1316dd3f34/deaf72d-a8b1de48-37d8-49df-b109-5609139d6180.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3MzQwZTM5LTM2ODAtNGI4Mi05MTRkLThlMTMxNmRkM2YzNFwvZGVhZjcyZC1hOGIxZGU0OC0zN2Q4LTQ5ZGYtYjEwOS01NjA5MTM5ZDYxODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v2ez8ipnLPd0eWwuX7J3jtSu7ae4KHHZfltPYv78Eko">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07340e39-3680-4b82-914d-8e1316dd3f34/deaf72d-a8b1de48-37d8-49df-b109-5609139d6180.gif?">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkadam451&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkadam451" /> </p>
 
