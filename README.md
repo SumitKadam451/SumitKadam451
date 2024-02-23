@@ -39,6 +39,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkadam451&show_icons=true&locale=en&layout=compact" alt="sumitkadam451" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkadam451&show_icons=true&locale=en" alt="sumitkadam451" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkadam451&" alt="sumitkadam451" /></p>
