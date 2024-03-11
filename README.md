@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumitkadam451" target="blank"><img src="https://img.shields.io/twitter/follow/sumitkadam451?logo=twitter&style=for-the-badge" alt="sumitkadam451" /></a> </p>
 
-- 🌱 I’m currently learning **React and web-development**
+- 🌱 I’m currently learning **React and Back-End**
 
 - 👨‍💻 All of my projects are available at [SumitKadam451](https://github.com/SumitKadam451)
 
