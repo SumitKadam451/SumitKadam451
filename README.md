@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and web-development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SumitKadam451](https://github.com/SumitKadam451)
+- 👨‍💻 All of my projects are available at [SumitKadam451](https://github.com/SumitKadam451)
 
 - 💬 Ask me about **Hacking & web-development**
 
