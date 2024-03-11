@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sumitkadam451@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/vymypx](https://rb.gy/vymypx)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1q0JU-f0NglkFBF11MpssXUycyqRzbfi2/view)
 
 - ⚡ My likes are **Hacking & Anime and reading Novels**
 
