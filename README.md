@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Kadam</h1>
 <h3 align="center">MR._D4RK_ is my pseudonym</h3>
-<img align="right" alt="hacking" width="400" src="https://github.com/SumitKadam451/SumitKadam451/blob/main/deaf72d-a8b1de48-37d8-49df-b109-5609139d6180.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkadam451&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkadam451" /> </p>
 
